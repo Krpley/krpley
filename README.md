@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kyle</h1>
+<h1 align="center">👨‍💻 Kyle Pasta 🍝</h1>
 <h3 align="center">A computer science student @ University of Guelph</h3>
 
 - 🔭 I’m currently working on **Rakt, a fitness tracking app built around machine-based progressive overload and friend streaks.**
