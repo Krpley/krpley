@@ -1,5 +1,5 @@
 <img width="562" height="46" alt="typewriter2" src="https://github.com/user-attachments/assets/3f355f70-c037-42e4-9ccf-7354737dec6d" />
-<h3 align="center">A computer science student @ University of Guelph</h3>
+<h3 align="left">A computer science student @ University of Guelph</h3>
 
 - 🔭 I’m currently working on **Rakt, a fitness tracking app built around machine-based progressive overload and friend streaks.**
 
