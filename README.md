@@ -1,4 +1,4 @@
-<img width="1488" height="48" alt="typewriter (1)" src="https://github.com/user-attachments/assets/9420cc7a-1d08-4280-b421-b07e58b44744" />
+<img width="1488" height="48" alt="typewriter (2)" src="https://github.com/user-attachments/assets/d251b4ab-847e-4da8-bf66-a0d166db3a28" />
 <h3 align="center">A computer science student @ University of Guelph</h3>
 
 - 🔭 I’m currently working on **Rakt, a fitness tracking app built around machine-based progressive overload and friend streaks.**
