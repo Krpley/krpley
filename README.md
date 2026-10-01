@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures & Algorithms**
 
-- 📫 How to contact me **kylepasta67@outlook.com**
+- 📫 How to contact me Linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
